@@ -1,0 +1,49 @@
+.form {
+    margin: 80px auto 20px;
+    max-width: 70%;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.form__fieldset {
+    border: 1px solid teal;
+    border-radius: 10px;
+    background-color: #fcfcfc;
+    padding: 50px 20px;
+}
+
+.form__legend {
+    font-size: 40px;
+    font-weight: bold;
+    color: teal;
+}
+
+.form__label {
+    margin-right: 20px;
+    font-size: 17px;
+    color: teal;
+    display: inline-block;
+}
+
+.form__window {
+    width: 100px;
+    display: inline-block;
+    padding: 3px 10px;
+}
+
+.form__window:hover {
+    background-color: #dddddd;
+}
+
+
+.form__button {
+    width: 40%;
+    background-color: teal;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px auto 5px;
+    font-size: 20px;
+}
