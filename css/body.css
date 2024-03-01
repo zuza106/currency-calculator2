@@ -1,8 +1,8 @@
 .body {
     font-family: "Lato", sans-serif;
-    background-color: #dddddd;
-}
-
-.body__background {
     background-image: url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: auto;
 }
